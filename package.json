@@ -1,0 +1,23 @@
+{ "name": "gha-npm-bundle",
+  "version": "0.0.0",
+  "description": "Let GitHub Actions bundle npm packages as a single ZIP file that you can just unpack into your node_modules directory.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/gha-npm-bundle/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/gha-npm-bundle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/gha-npm-bundle/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "ISC",
+
+  "scripts": { "test": "echo E: 'No tests yet!'; exit 2" },
+
+
+  "engines": { "npm": ">=7.0.0", "bash": ">=5.0.0" }
+}
