@@ -1,5 +1,5 @@
 { "name": "gha-npm-bundle",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Let GitHub Actions bundle npm packages as a single ZIP file that you can just unpack into your node_modules directory.",
   "keywords": [],
 

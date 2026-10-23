@@ -1,0 +1,383 @@
+ARTIFACT_NAME=@joint.core@4.1.3
+ARTIFACT_NAME=@types.ansicolors@0.0.29
+ARTIFACT_NAME=ansible-bogus-linux-pwhash@1.0.3
+ARTIFACT_NAME=is-string@1.0.7
+
+ansible-bogus-linux-pwhash/README.md
+    = 521f400fcbae03b265b677552558f0967641de4b
+ansible-bogus-linux-pwhash/index.mjs
+    = fa9edd4087683195df4044203f0ffaf8a08e5603
+ansible-bogus-linux-pwhash/package.json
+    = b667a7977812c0563b091fd74d0cbae274b385d6
+ansible-bogus-linux-pwhash/pwhash.json
+    = b7a861e108276f6fd02d256a676125ba262e403c
+ansible-bogus-linux-pwhash/test.mjs
+    = d0c3ef4297fba02984c6f4e612812d228b2210b3
+is-string/.eslintignore
+    = 8525adbdf9ac9a497e638cc69cedd64804151830
+is-string/.eslintrc
+    = 54817095475f1d41fa1a26bfad3d20ffe8e25cb6
+is-string/.nycrc
+    = 15f2a319ce01b12d6831f739c70b362508b58c7c
+is-string/CHANGELOG.md
+    = 66d7d7da9418bd607cd743aa6bb2aa4b1a0de825
+is-string/LICENSE
+    = e5501ab14484eafb1c649f01fa7455182ae66d13
+is-string/README.md
+    = a943ce85d9e2f7855fb1f246a5bb00521cf02596
+is-string/index.js
+    = 867aab86c32ac16e35ac51d78cc3dbf3338a8e2c
+is-string/node_modules/has-symbols/.eslintrc
+    = f77bd5556f623a993a67c463debdc0c69178bfcb
+is-string/node_modules/has-symbols/.nycrc
+    = 54f9d7adf8943cb07f821435bb269eb4ba40ccc2
+is-string/node_modules/has-symbols/CHANGELOG.md
+    = 766616b09e9726a0d9b1642750feedb800d55a9b
+is-string/node_modules/has-symbols/LICENSE
+    = ff97d906c193a1066d1853d9e4ef458281c8672d
+is-string/node_modules/has-symbols/README.md
+    = f237d15e79c3f8015193ca4d46a2ceef631ee9bc
+is-string/node_modules/has-symbols/index.d.ts
+    = ac540196e6eec10f54019812b10672e80b440363
+is-string/node_modules/has-symbols/index.js
+    = 9b49792f7f9730f6f6b37cfb31917f684adf8645
+is-string/node_modules/has-symbols/package.json
+    = 8e49a565463e9e23d9c32d8ccc18009321af19bf
+is-string/node_modules/has-symbols/shams.d.ts
+    = 6680498d7b25eff825c758efed9bac83a3de42fe
+is-string/node_modules/has-symbols/shams.js
+    = 80fb102521b89e75c630dba17f45ea442ce79cea
+is-string/node_modules/has-symbols/test/index.js
+    = c388d5615b642d2cffcae765a5e920a1389db994
+is-string/node_modules/has-symbols/test/shams/core-js.js
+    = 7ff10433cb36f2afd575dce4f9d6758ad5365f6d
+is-string/node_modules/has-symbols/test/shams/get-own-property-symbols.js
+    = b47047f4ff48ee3e0a6df2922fc5420649dc1df7
+is-string/node_modules/has-symbols/test/tests.js
+    = 0990e4db1ac4724ef8ab7c8c8689f6d58dbb8b10
+is-string/node_modules/has-symbols/tsconfig.json
+    = ef99ea52f20dc92c1120711b662dd8f9a56774b9
+is-string/node_modules/has-tostringtag/.eslintrc
+    = af79c81bd61c9a937fca18425dd84cdf8317c8b9
+is-string/node_modules/has-tostringtag/.nycrc
+    = 95462172699187ac02eaec6074024b26e6d71cff
+is-string/node_modules/has-tostringtag/CHANGELOG.md
+    = aba349903c345fd3148068b9fe1f5a9d53904d04
+is-string/node_modules/has-tostringtag/LICENSE
+    = 1eea939d4fcd772241fe51a6b1583e7322a51717
+is-string/node_modules/has-tostringtag/README.md
+    = 00e3e955c683d04872105ce5d0cf3d4412367ab2
+is-string/node_modules/has-tostringtag/index.d.ts
+    = f3386a6ac10d31fc83591d0b793d5b47a2c43af6
+is-string/node_modules/has-tostringtag/index.js
+    = c9433a8c366e266ba39ae7e6021d009df16e4f1a
+is-string/node_modules/has-tostringtag/package.json
+    = 75aeb5fec79dabebcda93a54b809a899fac1e214
+is-string/node_modules/has-tostringtag/shams.d.ts
+    = ade2d2cdd027d813e56d14bb76dc94f9fdbbc955
+is-string/node_modules/has-tostringtag/shams.js
+    = b578fa98298e942780ae5d43e4d3f63577cff63d
+is-string/node_modules/has-tostringtag/test/index.js
+    = b7e3c19f26b79ba6f5447c6806b001f4590507cb
+is-string/node_modules/has-tostringtag/test/shams/core-js.js
+    = deb5604ae6d0a035590bca3d5c87d6f2719ac790
+is-string/node_modules/has-tostringtag/test/shams/get-own-property-symbols.js
+    = f8c96ff6249c78624918a531b28db5e4bfcb9176
+is-string/node_modules/has-tostringtag/test/tests.js
+    = bda2a6083d9ddb55c536a167db6188521e0342cb
+is-string/node_modules/has-tostringtag/tsconfig.json
+    = 9523d0b767da3d695a77a01c05ac3320727e8b39
+is-string/package.json
+    = dcc08da3b08e938e4a20206731516593851e1b84
+is-string/test/index.js
+    = 76df89a0bc470b0b7c531d3eacc36a03d79d3be1
+@joint/core/LICENSE
+    = a786c484c43592e2013190892dfa9df009d8f489
+@joint/core/README.md
+    = b14ffe4890fea30784d18ed53390c6f6f15dacac
+@joint/core/dist/geometry.js
+    = 08933e9e0383750acbb5c7ff0a54946c1d691a89
+@joint/core/dist/geometry.min.js
+    = 21c7a44fb8d131d0dae9492097025339ae10b268
+@joint/core/dist/joint.d.ts
+    = 61fab2be7dc98b043fb7e10a7dba9aa3e08b8d3c
+@joint/core/dist/joint.js
+    = 027ae511e05f424bb8472cea85781fa155462d58
+@joint/core/dist/joint.min.js
+    = 528deb91934867580f3e6d53924e0055f505a796
+@joint/core/dist/joint.nowrap.js
+    = 27726aab07c1eef26387898ae843d156c94ab92d
+@joint/core/dist/joint.nowrap.min.js
+    = 89c582e9ff1fd3f05ebc648ba86b90007cc68ee6
+@joint/core/dist/vectorizer.js
+    = 1a3341d346577623ef392f14125cf3efb40036c3
+@joint/core/dist/vectorizer.min.js
+    = f7b569a4016aa77ccccdfddd500ad2b47ee3994f
+@joint/core/dist/version.mjs
+    = 28e066fca38d45b657d04e28301fe2cdd58c1465
+@joint/core/index.js
+    = 257342f456531e18e67c0e098f0010c33a65bf42
+@joint/core/joint.mjs
+    = 8e01bb27069ac9e9cbe3c93ba2320893582559ca
+@joint/core/package.json
+    = 2837747bd0b17578186627a6339d0c5c3d6656ce
+@joint/core/src/V/annotation.mjs
+    = da39a3ee5e6b4b0d3255bfef95601890afd80709
+@joint/core/src/V/index.mjs
+    = 89fc0e616f375e1a04dcc9d076b2bb4c173ca967
+@joint/core/src/anchors/index.mjs
+    = 66baaab90d51c9568a3b6b68a19cfcc6234908b5
+@joint/core/src/cellTools/Boundary.mjs
+    = c46b2500c294e46beb29fc0433acf9338bc388a4
+@joint/core/src/cellTools/Button.mjs
+    = 6954efeda9594d93f15b585f0f58d5007ce96816
+@joint/core/src/cellTools/Connect.mjs
+    = d9993b538c0f474cc860bafcae2a037022fd140e
+@joint/core/src/cellTools/Control.mjs
+    = eaecb4971e0e4c13ced238cb3603a06c51faf652
+@joint/core/src/cellTools/HoverConnect.mjs
+    = 5fe7d0affb8cea9a16cdf400417b266913594b7e
+@joint/core/src/cellTools/helpers.mjs
+    = 059d867b9a8813842ad36a3507c683b3b90fc311
+@joint/core/src/config/index.mjs
+    = edcfaec8cf313d0c0079799a588d6b9d4019b135
+@joint/core/src/connectionPoints/index.mjs
+    = 20665d8488271521a0080e131db6ed9024e7904b
+@joint/core/src/connectionStrategies/index.mjs
+    = 9e9500a46df2b139e6e5105d15559536d4c36221
+@joint/core/src/connectors/curve.mjs
+    = dc35e1eba67b0e3a23e3837a24cf76676ea1d78d
+@joint/core/src/connectors/index.mjs
+    = b6510a7ef296ab3fba0f83ffac97ddeeb4ac7928
+@joint/core/src/connectors/jumpover.mjs
+    = 671c69ea9807a99dd35c940024086f3e49a4d7c5
+@joint/core/src/connectors/normal.mjs
+    = 426c574828facd0b2227504d54794248c65ec99d
+@joint/core/src/connectors/rounded.mjs
+    = 892f6068993c053e140f16cb23f040984106635d
+@joint/core/src/connectors/smooth.mjs
+    = 314c05d84f3c4b25a6b9beb21d3a42b54b0c7621
+@joint/core/src/connectors/straight.mjs
+    = dd93ba756a4f330458bf0dcdaf12a62dcb75501e
+@joint/core/src/core.mjs
+    = 601dbafb73ad30fc9ad4c4d77715eaed7f35273e
+@joint/core/src/dia/Cell.mjs
+    = 7fa16d7f95f55d5910675db7f46c4f642ec2ce6a
+@joint/core/src/dia/CellView.mjs
+    = 2fc3f391ab54bebabf35ef5667c283bf3232935c
+@joint/core/src/dia/Element.mjs
+    = 9d9569c1168adcf31bf05f9f169efea5f770349d
+@joint/core/src/dia/ElementView.mjs
+    = 3dae92619d86ee5a75069e76430bc5147a970afd
+@joint/core/src/dia/Graph.mjs
+    = 561962e6b7c332e996ffad8d276eaba5dd8f2cda
+@joint/core/src/dia/HighlighterView.mjs
+    = ab38f53e81f55386b662a7cac2b37d757e990bc7
+@joint/core/src/dia/Link.mjs
+    = 21e8027fc8bbb07257d3c614a65c3da4584d0b45
+@joint/core/src/dia/LinkView.mjs
+    = 699fdf355ba0c280b26fbcb2d214bb746c4032b3
+@joint/core/src/dia/Paper.mjs
+    = 46be4e1597b439028747172fb153345259f33fe1
+@joint/core/src/dia/PaperLayer.mjs
+    = 1467d88047b36b4544971f938bb7c773a62f88da
+@joint/core/src/dia/ToolView.mjs
+    = 489e0ea750b53e75758621303029bf044030f335
+@joint/core/src/dia/ToolsView.mjs
+    = 7669ffad039680093a915a4a09947c4d6c1c3033
+@joint/core/src/dia/attributes/connection.mjs
+    = 34a84350fc8cb786d1c5c644b52ab939574c4936
+@joint/core/src/dia/attributes/defs.mjs
+    = a3a22a57a397419bea5b3d3806ee4acefcf221fb
+@joint/core/src/dia/attributes/eval.mjs
+    = 8552a385e4e6c7949869ff9cac363839f07aa25a
+@joint/core/src/dia/attributes/index.mjs
+    = 0efc92e08f7b197fda1bab58862f3ad482161af1
+@joint/core/src/dia/attributes/legacy.mjs
+    = 0f593357f417b61303a2dc9481268512bafe7d01
+@joint/core/src/dia/attributes/offset.mjs
+    = a02f1194de114b3de5073a9f00fc9164b6bbcc94
+@joint/core/src/dia/attributes/props.mjs
+    = 52cd58a282b296a0738dd255d7932b5b7f9a4d39
+@joint/core/src/dia/attributes/shape.mjs
+    = e0de40af77531dcaac343e2b1c7b1214d7fe64c6
+@joint/core/src/dia/attributes/text.mjs
+    = 1e3acf4222ad3c23e72535c69279e2b743cc806f
+@joint/core/src/dia/index.mjs
+    = fd29afa54808fc88db7992e8d2c0432ada3275c6
+@joint/core/src/dia/layers/GridLayer.mjs
+    = 84b7c0a3b31ac4b88579441689b6a97cc63ff6a4
+@joint/core/src/dia/ports.mjs
+    = 168ac85706dc18706cc380284a3c2d2f873fd208
+@joint/core/src/elementTools/HoverConnect.mjs
+    = eb9343ad263f6c47dfbcb9203b4cd9a3ddc4062e
+@joint/core/src/elementTools/index.mjs
+    = adcbbffd78fb6d151ccdf952d9efc3c681bcec4b
+@joint/core/src/env/index.mjs
+    = 507b4e791fa997dc48e7e7f36343554015ff038b
+@joint/core/src/g/bezier.mjs
+    = 2d4a72ec118d46e6c424d1964d033d89806ca0ea
+@joint/core/src/g/curve.mjs
+    = 941f0c4c9c3602d8e3e74cb1fa7b0d740542ea39
+@joint/core/src/g/ellipse.mjs
+    = 81aca7f756a5388a0a3d5449a0720081720afb58
+@joint/core/src/g/extend.mjs
+    = e3e25108f7a2b2df1cb6ce94b2de0eb49bd42c2d
+@joint/core/src/g/geometry.helpers.mjs
+    = 0a6c135e63e56e142d20d02e5417cc8586094e19
+@joint/core/src/g/index.mjs
+    = 5ad14c7cce3727461cbd9de92a7c392b0f1eae84
+@joint/core/src/g/intersection.mjs
+    = e4de8caedbb80c9f1f1bb5f683b171b384d08a15
+@joint/core/src/g/line.bearing.mjs
+    = f83565879b7cf916d4f0713eec23684665de11c7
+@joint/core/src/g/line.length.mjs
+    = 22ff55d78a08074d82c597df0e161cdf69ff839e
+@joint/core/src/g/line.mjs
+    = 8e75102d83e1059d68f417bf266c70f33826fa21
+@joint/core/src/g/line.squaredLength.mjs
+    = fd3407abadb894c0aac7c280dacd8f59ed7f2bea
+@joint/core/src/g/path.mjs
+    = 80d682938f8da6c4a09b9b97582a41b36aefadb8
+@joint/core/src/g/point.mjs
+    = e82df35f37c4c6c239f93d44e5c100eb556a054a
+@joint/core/src/g/points.mjs
+    = a9a80f5dabdb25ba3865938d53704fb7749ada57
+@joint/core/src/g/polygon.mjs
+    = 5c328380a6bdaee694ec78a45b93965f6ee5fbea
+@joint/core/src/g/polyline.mjs
+    = d9ba013b9c6a7a54580125aa4c34f23e9d9e3447
+@joint/core/src/g/rect.mjs
+    = bfe18e5369b5938257c74bb60cc18ecfc9ca1cc1
+@joint/core/src/g/types.mjs
+    = a932ee133c8c5469916154adfd135738668bf286
+@joint/core/src/highlighters/addClass.mjs
+    = a406bcb1e72e25d3be420601245449b40916ea8a
+@joint/core/src/highlighters/index.mjs
+    = 3eb6ed70f78b9180b333f3b532b4f721d68a15f8
+@joint/core/src/highlighters/list.mjs
+    = 43c74da4f8b252a7302188bab140b2bd05a6bea8
+@joint/core/src/highlighters/mask.mjs
+    = 197be9b63f87d779a06a82ff0fd78e47855e5606
+@joint/core/src/highlighters/opacity.mjs
+    = e701f0f031a45bf8f9864d7ffb113ca5a85dbb3f
+@joint/core/src/highlighters/stroke.mjs
+    = a2acc8660eb1cd82df4d5acf8687001b15d6de91
+@joint/core/src/layout/index.mjs
+    = 08a087b710d378b344143ccac467db5d3d13260b
+@joint/core/src/layout/ports/port.mjs
+    = 6eba3316bd91437f3bccd7544fbaf6bd5f8d9a85
+@joint/core/src/layout/ports/portLabel.mjs
+    = 01266cae288766ecf7581130d13723f7b63f2d28
+@joint/core/src/linkAnchors/index.mjs
+    = a019b5b75e4d93d9970b3c0f0ff97cd907aebfba
+@joint/core/src/linkTools/Anchor.mjs
+    = 5ada3fb51dd0db429918ea71f5a8a5c59a406d50
+@joint/core/src/linkTools/Arrowhead.mjs
+    = a8c0c35568ecd69ed5c9fa64be3a22b1f784f4c6
+@joint/core/src/linkTools/RotateLabel.mjs
+    = b3784d96b742df8090b16cf99f2691833a252f33
+@joint/core/src/linkTools/Segments.mjs
+    = 2815cbfa148c62a51fd2558830fccd5ab6a48e3a
+@joint/core/src/linkTools/Vertices.mjs
+    = fa74385d85b4df249d22b9ececdbc55b43820ed0
+@joint/core/src/linkTools/index.mjs
+    = 484d2028e11ed1d310e4ebb8d4e4b8c6775c8168
+@joint/core/src/mvc/Collection.mjs
+    = 3f158468b15fcff4c656fcd9c5c80641acc0fde0
+@joint/core/src/mvc/Data.mjs
+    = 318fac7a41698daae9c335067b9aaed37fdb39b4
+@joint/core/src/mvc/Dom/Dom.mjs
+    = 3b5f5f5c336fc0984212c638c3a378b4f13dd853
+@joint/core/src/mvc/Dom/Event.mjs
+    = e4e48735040f0e4fc9a8a7eee83028cc7b137c14
+@joint/core/src/mvc/Dom/animations.mjs
+    = 4dfb357de8ed3b19057ebd1773e124792536831e
+@joint/core/src/mvc/Dom/events.mjs
+    = 803a6bb09c5d84d762fde551bbcefc10dea03028
+@joint/core/src/mvc/Dom/index.mjs
+    = 8447a4418a45a179baa3ef016cd8045726f489f5
+@joint/core/src/mvc/Dom/methods.mjs
+    = 41dce21789e19cd9a3be131b22cb23997993bcd5
+@joint/core/src/mvc/Dom/props.mjs
+    = c7c5d79c98a1a7ad8ad9aabb1a8d32b77c04299f
+@joint/core/src/mvc/Dom/vars.mjs
+    = 708af1e7a4e45e85493c08724ebb952532007919
+@joint/core/src/mvc/Events.mjs
+    = 90b48e264a92027d2914c0e69801b0db2c2ba132
+@joint/core/src/mvc/Listener.mjs
+    = dd0392bc64b33a64346fc775e66cafe973dbca12
+@joint/core/src/mvc/Model.mjs
+    = 28d519045afbf6ab8e84ff293387ef1c13e68af4
+@joint/core/src/mvc/View.mjs
+    = e8e570ce3c8c50557d60c9d2ff33e75ebeb635fc
+@joint/core/src/mvc/ViewBase.mjs
+    = cac5dc239679831caf7bbe2825dd80953774e2fb
+@joint/core/src/mvc/index.mjs
+    = fabf90236554ba5d508879797ae50f9148a92bbd
+@joint/core/src/mvc/mvcUtils.mjs
+    = 1e90e9a0716e0c35c413fb60ce4d954873f61514
+@joint/core/src/polyfills/array.js
+    = a1d04dcbd451350f987f85e5e1c78458a96fc4ea
+@joint/core/src/polyfills/base64.js
+    = 7e857cec1c5b8afc0338ace0b775e846fa011bce
+@joint/core/src/polyfills/index.mjs
+    = 8f5d8d37ab0af7f4df1146afeb173e3692ee61fe
+@joint/core/src/polyfills/number.js
+    = c1f830388098490953c2f5e42fe54d7734176f4f
+@joint/core/src/polyfills/string.js
+    = bc0ef601a148d40504e0cf9160e72bdbf3ab9dfe
+@joint/core/src/polyfills/typedArray.js
+    = c6bc2c50c6aa8291d6d00db5fd2da67ea03b8083
+@joint/core/src/routers/index.mjs
+    = a24781a7ca755dd8bb071956d6891a8b895f8f81
+@joint/core/src/routers/manhattan.mjs
+    = 9f15d8bdf1938c3b62a3eb36493b5831600062b5
+@joint/core/src/routers/metro.mjs
+    = 8676195cca0e3afc0f41d56f365d01a34525cd2f
+@joint/core/src/routers/normal.mjs
+    = f26cf18d73c05f30f5716d00d7e2efbf200fe689
+@joint/core/src/routers/oneSide.mjs
+    = b4d64505dbd808134dbd7acaf08939ebcd94ef47
+@joint/core/src/routers/orthogonal.mjs
+    = d20e475ff4a2954836673e927a0b693cf634305d
+@joint/core/src/routers/rightAngle.mjs
+    = 850f77082e92ea72b9fc78d9c944c886ff09d15a
+@joint/core/src/shapes/index.mjs
+    = 3d351de399eb3885e8d3f4c59c8065a6d5dd9fa9
+@joint/core/src/shapes/standard.mjs
+    = 748c1aed5e69acb9d911f533b46aaffdffa6506d
+@joint/core/src/util/calc.mjs
+    = dc6d4f4c777e6781c4d7289d13d772cc463efe37
+@joint/core/src/util/cloneCells.mjs
+    = f65ec1d2b5b473b3b66643223ad96a7b1406207f
+@joint/core/src/util/getRectPoint.mjs
+    = d814d62179f97ff640af0786d4cb6036f948bc26
+@joint/core/src/util/index.mjs
+    = c587937ccb0278694a0587d7fb340509cd79a4a0
+@joint/core/src/util/svgTagTemplate.mjs
+    = 0c9eac3a14e5517e96bd2b76394a51b49695700e
+@joint/core/src/util/util.mjs
+    = c52fb4f41c56b104c00667cda38fc857be1afd1c
+@joint/core/src/util/utilHelpers.mjs
+    = f2ee71051842d9c9147ac2f63f1011500715cff2
+@joint/core/src/util/wrappers.mjs
+    = 768ba795f715ecafb5a0dc31abc884e5a22c8853
+@joint/core/types/geometry.d.ts
+    = c49e58ef6f059bcae4edb15835d46115adb2e05c
+@joint/core/types/index.d.ts
+    = 04fbc6bc5a02d83bc336ebf5c114800ffa765d94
+@joint/core/types/joint.d.ts
+    = d97a3922380402359dadf3b6e346bebb91b83da3
+@joint/core/types/joint.head.d.ts
+    = 1dcef3e5d20a214422efc0f0ffa8a0de4e27976d
+@joint/core/types/vectorizer.d.ts
+    = c7aac2dd0efdc5cfc3cd2aa51000804f7315c5bf
+@types/ansicolors/README.md
+    = e31cf3ad33becdf9663fb21a3c9b4a8ebff2dd26
+@types/ansicolors/index.d.ts
+    = d8c93b4dbe3367630a13597eee1afb7a8bd42970
+@types/ansicolors/package.json
+    = 7a6e1b65dbe88fc1f2fd46281edff5ccc5a7f07f
+@types/ansicolors/types-metadata.json
+    = 8148493a98a86c9cb54bc688744e1bd3e602e662
