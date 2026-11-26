@@ -57,7 +57,11 @@ function bundle_one_package () {
   local SUB="$PKG"
   [ -z "$ORG" ] || SUB="@$ORG/$SUB"
   echo D: "Gonna bundle $SUB@$VER:"
-  echo $'\n'"#### 📦️ Bundle: \`$SUB@$VER\`" >&7
+
+  VAL='`æ`[`@µ`](https://www.npmjs.com/package/æ?activeTab=versions)'
+  VAL="${VAL//'æ'/$SUB}"
+  VAL="${VAL//'µ'/$VER}"
+  echo $'\n#### 📦️ Bundle: '"$VAL" >&7
   npm install --save "$SUB@$VER"
   ghciu -Q ghciu://util/nodejs/ci_audit.sh
   git checkout HEAD package.json
