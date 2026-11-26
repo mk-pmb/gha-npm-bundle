@@ -58,7 +58,8 @@ function bundle_one_package () {
   [ -z "$ORG" ] || SUB="@$ORG/$SUB"
   echo D: "Gonna bundle $SUB@$VER:"
   echo $'\n'"#### Bundle: \`$SUB@$VER\`" >&7
-  npm install "$SUB@$VER"
+  npm install --save "$SUB@$VER"
+  ghciu -Q ghciu://util/nodejs/ci_audit.sh
   git checkout HEAD package.json
 
   VER="$(jq --raw-output .version <"node_modules/$SUB/package.json")"
